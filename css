@@ -1,0 +1,97 @@
+.hello{
+    margin-left:500px;
+    margin-right:500px;
+    margin-top:38px;
+    border: rgb(0, 0, 0);
+    border-width: 3px;
+    border-style:groove;
+    border-top-right-radius:90px;
+    border-bottom-right-radius:90px;
+    color:rgb(190, 102, 0);
+    font-size:70px;
+    font-family: 'Tempus Sans ITC';
+    font-weight:600;
+    background-color:rgb(123, 218, 213);
+}
+.a{
+  background-image:url('D:/pics/nithya.jpg');
+}
+.icon-bar {
+  float:right;
+  width: 10%; /* Full-width */
+  overflow: auto; /* Overflow due to float */
+  border-radius:10px;
+}
+
+.icon-bar a {
+  display: block;
+  float: left; /* Float links side by side */
+  text-align: center; /* Center-align text */
+  width: 50%; /* Equal width (5 icons with 20% width each = 100%) */
+  padding: 08px 0; /* Some top and bottom padding */
+  transition: all 0.3s ease; /* Add transition for hover effects */
+  color:crimson; /* White text color */
+  font-size: 20px; /* Increased font size */
+}
+
+.icon-bar a:hover{
+  display:inline;
+  background-color: rgb(243, 221, 242); /* Add a hover color */
+}
+
+.exam{
+  float:left;
+  margin-left:250px;
+}
+.ex{
+  border-bottom-left-radius:90px;
+  border-top-left-radius:90px;
+  border:black; 
+  border-width: 3px;
+  border-style: groove; 
+}
+
+.hi{
+    background-color:rgb(243, 221, 242);
+    background-image:url("D:/pics/nithya.jpg");
+}
+.float{
+  float:right;
+  margin-right:60px;
+  border-bottom-left-radius: 10px;
+  padding:15px;
+  background: linear-gradient( to bottom, #ba70ff 0%, #fd8a94 100%);
+  border: rgb(35, 173, 166);
+    border-width: 5px;
+    border-style:groove;
+    width: 350px;
+}
+
+.h{
+  color:rgb(173, 17, 49);
+}
+.red{
+  background-color:rgb(35, 173, 166) ;
+  border-radius:5px;
+  padding:15px;
+  font-family:'castellar';
+  font-weight:600
+}
+.delivery{
+  float:left;
+  margin-left:60px;
+  border-top-right-radius: 10px;
+  padding:15px;
+  background: linear-gradient( to bottom,#fd8a94 0%, #ba70ff 100%);
+  border: rgb(35, 173, 166);
+    border-width: 5px;
+    border-style:groove;
+  WIDTH:350px;
+  
+}
+  .contact{
+    color:black;
+  }
+  .about{
+    color:black;
+  }
